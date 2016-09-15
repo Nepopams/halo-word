@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+   compile files('libs/postgresql-9.4.1208.jar')
+ compile files('libs/poi-3.9.jar')
+compile files('mysql-connector-java-5.1.39-bin.jar')}
