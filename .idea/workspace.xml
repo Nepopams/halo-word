@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64647b40-1fd2-4976-98a7-97e06b8defb2" name="Default" comment="" />
+    <list default="true" id="64647b40-1fd2-4976-98a7-97e06b8defb2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/MailV/MailVFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCDataHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCShowCount.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/GlassClass$MailButListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/GlassClass$MailV$BListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/GlassClass$MailV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/GlassClass$WordButListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/GlassClass$WordC$WCBListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/GlassClass$WordC.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/GlassClass$1.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/GlassClass$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/GlassClass.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/GlassClass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/DBConnectorFrame$1.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/DBConnectorFrame$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/DBConnectorFrame.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/DBConnectorFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/DBTableFrame$1.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/DBTableFrame$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/DBTableFrame.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/DBTableFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLAddStrategy.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLAddStrategy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLConnectorStrategy.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLConnectorStrategy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLDeleteRow.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLDeleteRow.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLFrame$10.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLFrame$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLFrame$8.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLFrame$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLFrame$9.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLFrame$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLManualInsert.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLManualInsert.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLStrArrMaker.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLStrArrMaker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLTable.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLTable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLUpdate.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLUpdate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREConnectorStrategy.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREConnectorStrategy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREFrame$10.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREFrame$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREFrame$8.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREFrame$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREFrame$9.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREFrame$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGRESQLAddStrategy.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGRESQLAddStrategy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGRESQLManualInsert.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGRESQLManualInsert.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGRESearchTableMaker.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGRESearchTableMaker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGRETable.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGRETable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREUpdate.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREUpdate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGreStrArrayMaker.class" afterPath="$PROJECT_DIR$/out/production/GlassClass/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGreStrArrayMaker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/GlassClass.java" afterPath="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/GlassClass.java" />
+    </list>
     <ignored path="GlassClass.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,63 +64,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MySQLFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLFrame.java">
+      <file leaf-file-name="GlassClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/GlassClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="323" column="40" selection-start-line="323" selection-start-column="40" selection-end-line="323" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#createOpButPanel#0;class#MySQLFrame#0" expanded="false" />
-                <element signature="class#3484:3738" expanded="false" />
-                <element signature="method#actionPerformed#0;class#3484:3738" expanded="false" />
-                <element signature="class#3916:4174" expanded="false" />
-                <element signature="class#4336:4582" expanded="false" />
-                <element signature="method#createManUpdPanel#0;class#MySQLFrame#0" expanded="false" />
-                <element signature="method#createManAddPanel#0;class#MySQLFrame#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-360">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="53" column="52" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBTableFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBTableFrame.java">
+      <file leaf-file-name="WordCCounter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-84">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="456">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+              <folding>
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCFrame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="56" column="63" selection-start-line="56" selection-start-column="63" selection-end-line="56" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCShowCount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCShowCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PostGREDeleteRow.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREDeleteRow.java">
+      <file leaf-file-name="WordCDataHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCDataHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+            <state relative-caret-position="391">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1473940594635" expanded="true" signature="503:562" placeholder="DELETE FROM " />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBConnectorFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBConnectorFrame.java">
+      <file leaf-file-name="MailVFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/MailV/MailVFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="107" column="74" selection-start-line="107" selection-start-column="74" selection-end-line="107" selection-end-column="74" />
+            <state relative-caret-position="221">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,36 +138,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PostGREFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREFrame.java">
+      <file leaf-file-name="GC.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GC.bat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="359" column="40" selection-start-line="359" selection-start-column="16" selection-end-line="359" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#PostGREFrame#0;class#PostGREFrame#0" expanded="false" />
-                <element signature="method#createButPanel#0;class#PostGREFrame#0" expanded="false" />
-                <element signature="method#createTabPanel#0;class#PostGREFrame#0" expanded="false" />
-                <element signature="method#createOpButPanel#0;class#PostGREFrame#0" expanded="false" />
-                <element signature="method#actionPerformed#0;class#3757:4011" expanded="false" />
-                <element signature="method#createManUpdPanel#0;class#PostGREFrame#0" expanded="false" />
-                <element signature="class#5601:6747" expanded="false" />
-                <element signature="method#actionPerformed#0;class#5601:6747" expanded="false" />
-                <element signature="method#createManAddPanel#0;class#PostGREFrame#0" expanded="false" />
-                <element signature="method#createUI#0;class#PostGREFrame#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="86" selection-start-line="1" selection-start-column="86" selection-end-line="1" selection-end-column="86" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBTable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBTable.java">
+      <file leaf-file-name="MySQLConnector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLConnector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="e#418#419#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="510">
+              <caret line="36" column="81" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostGREConnector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREConnector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbsDBFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/AbsDBFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -131,16 +188,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/DBTableFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGRECreateOrConnect.java" />
-        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREAdd.java" />
-        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/DBAdd.java" />
-        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBAddStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLAdd.java" />
-        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBAdd.java" />
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/UpdateStrategy.java" />
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBUpdate.java" />
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBStrArrayStrategy.java" />
@@ -149,7 +202,6 @@
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLSearchTableStrategy.java" />
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBSearchTableMaker.java" />
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLSearchTableMaker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/AbsDBFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBConnector.java" />
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/ConnectorStrategy.java" />
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBTable.java" />
@@ -185,6 +237,14 @@
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBConnectorFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBTableFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREDeleteRow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/AbsDBFrame.java" />
+        <option value="$PROJECT_DIR$/GC.bat" />
+        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/MailV/MailVFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCDataHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/GlassClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCCounter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCShowCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCFrame.java" />
       </list>
     </option>
   </component>
@@ -224,6 +284,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -278,7 +340,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
+              <option name="myItemId" value="WordC" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -300,45 +362,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PostGRE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GlassClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GlassClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="glassclass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MySQL" />
+              <option name="myItemId" value="MailV" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -678,11 +708,20 @@
       <workItem from="1473747322510" duration="23776000" />
       <workItem from="1473833103630" duration="21193000" />
       <workItem from="1473922034515" duration="12878000" />
+      <workItem from="1473942582557" duration="1776000" />
     </task>
+    <task id="LOCAL-00001" summary="encodings change">
+      <created>1473942669843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1473942669843</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57847000" />
+    <option name="totallyTimeSpent" value="59623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -724,6 +763,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="encodings change" />
+    <option name="LAST_COMMIT_MESSAGE" value="encodings change" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -749,46 +792,12 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGRECreateOrConnect.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLAdd.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREAdd.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/ManualPostGREDBFrame.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBStrArrayMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-          <folding>
-            <element signature="e#193#194#0" expanded="false" />
-            <element signature="e#227#228#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#366#367#0" expanded="false" />
-            <element signature="e#400#401#0" expanded="false" />
-            <element signature="e#446#447#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBStrArrayStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBSearchTableMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLSearchTableMaker.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLSearchTableStrategy.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBSearchTableMakerStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -796,7 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -804,7 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -812,10 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -823,7 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,9 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#426#427#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,7 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -850,9 +848,9 @@
         <state relative-caret-position="609">
           <caret line="45" column="74" selection-start-line="45" selection-start-column="74" selection-end-line="45" selection-end-column="74" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#396#397#0" expanded="false" />
+            <element signature="e#441#442#0" expanded="false" />
             <marker date="1473936990086" expanded="true" signature="703:717" placeholder="SELECT * FRO... missingValue" />
           </folding>
         </state>
@@ -863,7 +861,7 @@
         <state relative-caret-position="476">
           <caret line="29" column="77" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <marker date="1473936990119" expanded="true" signature="517:543" placeholder="CREATE TABLE... IF" />
             <marker date="1473936990119" expanded="true" signature="517:544" placeholder="CREATE TABLE... IF" />
             <marker date="1473936990119" expanded="true" signature="517:749" placeholder="CREATE TABLE... IF" />
@@ -875,9 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -886,7 +881,7 @@
         <state relative-caret-position="425">
           <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <marker date="1473936990144" expanded="true" signature="446:453" placeholder="UPDATE missi... " />
             <marker date="1473936990144" expanded="true" signature="446:519" placeholder="UPDATE missi... " />
             <marker date="1473936990144" expanded="true" signature="446:520" placeholder="UPDATE missi... " />
@@ -898,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -906,10 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
           <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="53" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1473937486414" expanded="true" signature="783:797" placeholder="SELECT * FRO... missingValue" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -917,9 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
-          <folding>
-            <marker date="1473937633913" expanded="true" signature="739:753" placeholder="SELECT * FRO... missingValue" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -927,7 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,7 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -943,9 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-          <folding>
-            <marker date="1473937633895" expanded="true" signature="382:454" placeholder="UPDATE missi... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -953,15 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/AbsDBFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -969,7 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -977,7 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,7 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -993,10 +963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
           <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="38" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1473937531089" expanded="true" signature="525:662" placeholder="INSERT INTO missingValue... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1004,10 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="68" column="46" selection-start-line="68" selection-start-column="46" selection-end-line="68" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1473937781960" expanded="true" signature="888:1025" placeholder="INSERT INTO missingValue... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1015,12 +977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1473937633871" expanded="true" signature="599:626" placeholder="CREATE TABLE... IF" />
-            <marker date="1473937633871" expanded="true" signature="599:891" placeholder="CREATE TABLE... IF" />
-            <marker date="1473937633871" expanded="true" signature="662:891" placeholder="(CONTACT_ID " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1028,17 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREConnector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,16 +992,8 @@
         <state relative-caret-position="-34">
           <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
           <folding>
-            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLConnector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="36" column="81" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="81" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1065,7 +1002,7 @@
         <state relative-caret-position="456">
           <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="71" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <marker date="1473936907701" expanded="true" signature="439:499" placeholder="DELETE FROM " />
           </folding>
         </state>
@@ -1076,17 +1013,17 @@
         <state relative-caret-position="323">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
+        <state relative-caret-position="2482">
           <caret line="323" column="40" selection-start-line="323" selection-start-column="40" selection-end-line="323" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#createOpButPanel#0;class#MySQLFrame#0" expanded="false" />
             <element signature="class#3484:3738" expanded="false" />
             <element signature="method#actionPerformed#0;class#3484:3738" expanded="false" />
@@ -1102,20 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
           <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="24" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLAddStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-309">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1473936907648" expanded="true" signature="796:915" placeholder="insert into missingValue... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1132,7 +1055,7 @@
         <state relative-caret-position="-357">
           <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
           <folding>
-            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1142,7 +1065,7 @@
         <state relative-caret-position="371">
           <caret line="31" column="74" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <marker date="1473936990169" expanded="true" signature="445:564" placeholder="insert into missingValue... " />
           </folding>
         </state>
@@ -1150,7 +1073,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
+        <state relative-caret-position="136">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
@@ -1158,10 +1081,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="1224">
           <caret line="359" column="40" selection-start-line="359" selection-start-column="16" selection-end-line="359" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#PostGREFrame#0;class#PostGREFrame#0" expanded="false" />
             <element signature="method#createButPanel#0;class#PostGREFrame#0" expanded="false" />
             <element signature="method#createTabPanel#0;class#PostGREFrame#0" expanded="false" />
@@ -1178,19 +1101,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBConnectorFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="1649">
           <caret line="107" column="74" selection-start-line="107" selection-start-column="74" selection-end-line="107" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/DBTableFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
+        <state relative-caret-position="527">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1201,6 +1124,111 @@
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1473940594635" expanded="true" signature="503:562" placeholder="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLAddStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1473936907648" expanded="true" signature="796:915" placeholder="insert into missingValue... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/MySQL/MySQLConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="81" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/PostGRE/PostGREConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/db/AbsDBFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GC.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="86" selection-start-line="1" selection-start-column="86" selection-end-line="1" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/MailV/MailVFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/GlassClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="53" column="52" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCShowCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glassclass/com/vadimrostov/glassclass/WordC/WordCFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="56" column="63" selection-start-line="56" selection-start-column="63" selection-end-line="56" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
